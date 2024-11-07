@@ -1,0 +1,36 @@
+ul{
+    list-style-type: none;
+    display: flex; 
+    margin-top:-45px;
+}
+
+
+li{
+    float: left;
+    padding-top: 50px;
+    padding-left: 70px;
+    font-weight: bold; 
+    background-image: url("cssexample.jpg");  
+    background-repeat: no-repeat;
+
+  
+}
+
+#start{
+    background-position:20px 20px;
+}
+
+#set{
+    background-position: 20px -40px;
+}
+
+#comment{
+    background-position: 20px -100px;
+
+}
+
+#follow{
+    background-position: 20px -160px;
+
+}
+
